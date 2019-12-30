@@ -1,7 +1,7 @@
-#安卓刷机教程
-##手机：google pixel
+# 安卓刷机教程
+## 手机：google pixel
 
-##版本：andorid 7.1.2
+## 版本：andorid 7.1.2
 
 ### 包和安装过程可能会因为手机和android版本而大同小异
 
